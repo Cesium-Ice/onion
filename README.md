@@ -7,10 +7,10 @@ I decided to do this project as my first foray into NLP because I am a fan of bo
 The dataset was extracted using pushshift API and the article titles were cleaned and one-hot encoded before being used to train some models. 
 
 Models Used: 
-Global Pooling
-LTSM
-Bidirectional LSTM
-CNN
+- Global Pooling
+- LTSM
+- Bidirectional LSTM
+- CNN
 
 After the model were trained the training and validation accuracy and losses were plotted and the accuracy was calculated to evaluate the model results.
 
